@@ -12,4 +12,4 @@ This project showcases an interactive sales dashboard built using Power BI.
 - Excel
 
 ## Dashboard Preview:
-![Dashboard Preview](Sales_Dashboard.png)
+![Dashboard Preview](Sale_dashboard.png)
